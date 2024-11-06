@@ -25,7 +25,7 @@ function Projects() {
         <ProjectCard
           src={hipsster}
           link=""
-          h3="Hotel Management <br/> <project"
+          h3="Hotel Management project"
           
         />
         <ProjectCard
